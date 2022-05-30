@@ -1,0 +1,17 @@
+﻿
+
+https://www.red-gate.com/simple-talk/development/dotnet-development/oauth-2-0-with-github-in-asp-net-core/
+
+https://www.solutionspirit.com/token-based-authentication-asp-net-mvc-web-api/
+
+https://www.solutionspirit.com/token-based-authentication-asp-net-mvc-web-api/
+
+https://www.c-sharpcorner.com/UploadFile/1b9079/using-facebook-authentication-in-Asp-Net-mvc/
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/facebook-logins?view=aspnetcore-6.0
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/facebook-logins?view=aspnetcore-6.0
+
+https://www.c-sharpcorner.com/article/facebook-authentication-for-Asp-Net-mvc-web-application/
+https://www.c-sharpcorner.com/article/facebook-authentication-for-Asp-Net-mvc-web-application/
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on
